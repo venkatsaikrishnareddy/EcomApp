@@ -1,0 +1,32 @@
+POST http://127.0.0.1:8080/api/auth/login
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+POST http://127.0.0.1:8080/api/auth/login
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+POST http://127.0.0.1:8080/api/auth/login
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+POST http://127.0.0.1:8080/api/auth/login
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
